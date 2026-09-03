@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="gpt-5.6-sol" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96c840e6-0176-47a7-816c-d223808ded52" name="Changes" comment="User ready Client &amp; Server bundles">
+      <change afterPath="$PROJECT_DIR$/server/ReadMe.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/00_Working_Directory/03_Minecraft/Trails &amp; Tribulations" value="3Im5vyJ8LqkJ2s0T77IviboOU1g" />
+      <entry key="_D:/03_Minecraft/Trails &amp; Tribulations" value="3FwIV9J1CPSTyDo8nq7QFFOlrkP" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cereloran&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Cereloran/Trails-and-Tribulations",
+    "accountId": "58125018-c12a-49c5-b202-7e4cd62c96a7"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0pU6mMiz" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3FwIV9J1CPSTyDo8nq7QFFOlrkP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/00_Working_Directory/03_Minecraft/Trails & Tribulations/server/mods",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00_Working_Directory\03_Minecraft\Trails &amp; Tribulations\server\mods" />
+      <recent name="D:\00_Working_Directory\03_Minecraft\Trails &amp; Tribulations\server" />
+      <recent name="D:\03_Minecraft\Trails &amp; Tribulations" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c840e6-0176-47a7-816c-d223808ded52" name="Changes" comment="" />
+      <created>1782979726045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782979726045</updated>
+      <workItem from="1782979727504" duration="70000" />
+      <workItem from="1782979936542" duration="2665000" />
+      <workItem from="1783046634904" duration="374000" />
+      <workItem from="1783063138379" duration="187000" />
+      <workItem from="1788356951538" duration="3826000" />
+      <workItem from="1788410452240" duration="1039000" />
+    </task>
+    <task id="LOCAL-00001" summary="Actual Files">
+      <option name="closed" value="true" />
+      <created>1782988374046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782988374046</updated>
+    </task>
+    <task id="LOCAL-00002" summary="User ready Client &amp; Server bundles">
+      <option name="closed" value="true" />
+      <created>1788358842501</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788358842501</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actual Files" />
+    <MESSAGE value="User ready Client &amp; Server bundles" />
+    <option name="LAST_COMMIT_MESSAGE" value="User ready Client &amp; Server bundles" />
+  </component>
+</project>

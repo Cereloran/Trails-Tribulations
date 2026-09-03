@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Primary Stats",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "diamond"
+		}
+	},
+	"background": "textures/block/deepslate_tiles.png"
+}

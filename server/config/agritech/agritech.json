@@ -1,0 +1,7 @@
+{
+  "fertilizerBoneMealSpeedMultiplier": 1.2,
+  "fertilizerBoneMealYieldMultiplier": 1.2,
+  "planterBaseProcessingTime": 1200,
+  "raisedBedSkyDaySpeedMultiplier": 1.25,
+  "basketPickupIntervalTicks": 20
+}

@@ -1,0 +1,211 @@
+# Plantables Override Configuration
+# Add custom crops, trees, soils, and fertilizers here without modifying the core config.
+# Any entries here will override or extend existing configurations for the same items/blocks.
+#
+# IMPORTANT: Incorrect IDs will be skipped with a warning in both the main log and a
+# dedicated error log file created in the plantables_config_logs directory.
+#
+# NOTES:
+# - If a crop/tree already exists, its soils list will be EXTENDED, not replaced.
+# - If you omit the 'drops' field, existing drops are preserved.
+# - IDs use resource location format: "minecraft:dirt", not "dirt"
+#
+# [crops.my_crop]
+# seed = "examplemod:my_seeds"
+# soil = ["minecraft:farmland", "examplemod:rich_soil"]
+# drops = [
+#   { item = "examplemod:my_crop", min_count = 1, max_count = 3, chance = 1.0 },
+#   { item = "examplemod:my_seeds", min_count = 1, max_count = 2, chance = 0.3 }
+# ]
+#
+# [trees.my_tree]
+# sapling = "examplemod:my_sapling"
+# soil = ["minecraft:dirt"]
+# drops = [
+#   { item = "examplemod:my_log", min_count = 2, max_count = 6, chance = 1.0 },
+#   { item = "examplemod:my_sapling", min_count = 1, max_count = 2, chance = 0.5 }
+# ]
+#
+# [soils.my_soil]
+# block = "examplemod:my_soil"
+# growth_modifier = 1.5
+#
+# [fertilizers.my_fertilizer]
+# item = "examplemod:my_fertilizer"
+# speed_multiplier = 1.2
+# yield_multiplier = 1.2
+
+# Biomes O' Plenty sapling compatibility for Agritech planters
+# Note: A few saplings in this BOP version don't have dedicated log items,
+# so they use oak logs as fallback output.
+
+[trees.bop_cypress]
+sapling = "biomesoplenty:cypress_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "minecraft:oak_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:cypress_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_dead]
+sapling = "biomesoplenty:dead_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:dead_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:dead_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_empyreal]
+sapling = "biomesoplenty:empyreal_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:empyreal_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:empyreal_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_fir]
+sapling = "biomesoplenty:fir_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:fir_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:fir_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_flowering_oak]
+sapling = "biomesoplenty:flowering_oak_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "minecraft:oak_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:flowering_oak_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_hellbark]
+sapling = "biomesoplenty:hellbark_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:hellbark_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:hellbark_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_jacaranda]
+sapling = "biomesoplenty:jacaranda_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:jacaranda_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:jacaranda_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_magic]
+sapling = "biomesoplenty:magic_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:magic_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:magic_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_mahogany]
+sapling = "biomesoplenty:mahogany_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:mahogany_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:mahogany_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_orange_maple]
+sapling = "biomesoplenty:orange_maple_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:maple_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:orange_maple_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_origin_oak]
+sapling = "biomesoplenty:origin_oak_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:origin_oak_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:origin_oak_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_palm]
+sapling = "biomesoplenty:palm_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:palm_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:palm_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_pine]
+sapling = "biomesoplenty:pine_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:pine_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:pine_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_red_maple]
+sapling = "biomesoplenty:red_maple_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:maple_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:red_maple_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_redwood]
+sapling = "biomesoplenty:redwood_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:redwood_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:redwood_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_snowblossom]
+sapling = "biomesoplenty:snowblossom_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "minecraft:oak_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:snowblossom_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_umbran]
+sapling = "biomesoplenty:umbran_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:umbran_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:umbran_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_willow]
+sapling = "biomesoplenty:willow_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:willow_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:willow_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]
+
+[trees.bop_yellow_maple]
+sapling = "biomesoplenty:yellow_maple_sapling"
+soil = ["minecraft:dirt", "minecraft:grass_block", "minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+drops = [
+    { item = "biomesoplenty:maple_log", min_count = 2, max_count = 6, chance = 1.0 },
+    { item = "biomesoplenty:yellow_maple_sapling", min_count = 1, max_count = 2, chance = 0.5 },
+    { item = "minecraft:stick", min_count = 1, max_count = 2, chance = 0.5 }
+]

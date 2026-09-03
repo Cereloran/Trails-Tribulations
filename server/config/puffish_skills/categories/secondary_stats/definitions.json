@@ -1,0 +1,464 @@
+{
+	"critical_strike": {
+		"title": "Critical Strike",
+		"description": "+0.5 Resistance Shred",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance_shred",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "onvmfn3sctdyicx9"
+		}
+	},
+	"haste": {
+		"title": "Haste",
+		"description": "+1% Breaking Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "sugar"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:breaking_speed",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "9ha1vad60644oqde"
+		}
+	},
+	"mastery": {
+		"title": "Mastery",
+		"description": "+0.1 Damage Reflection",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "enchanted_book"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:damage_reflection",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "z9g4c6bx1an3wnj5"
+		}
+	},
+	"versatility": {
+		"title": "Versatility",
+		"description": "+0.1 Melee Damage, +0.1 Ranged Damage, +0.1 Magic Damage, +0.1 Resistance (2% Damage Reduction)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "shield"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:melee_damage",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:ranged_damage",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:magic_damage",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "obawjeofe7ye4phd"
+		}
+	},
+	"leech": {
+		"title": "Leech",
+		"description": "+0.05 Life Steal",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ghast_tear"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:life_steal",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "2jvjwjkfbcd4qcr1"
+		}
+	},
+	"avoidance": {
+		"title": "Avoidance",
+		"description": "+0.05 Stealth",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "phantom_membrane"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:stealth",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "kmeht17ivssumo1j"
+		}
+	},
+	"speed": {
+		"title": "Speed",
+		"description": "+1% Sprinting Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "sugar"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:sprinting_speed",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ppwgq15r93e47qw8"
+		}
+	},
+	"dodge": {
+		"title": "Dodge",
+		"description": "+0.05 Fall Reduction",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "feather"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:fall_reduction",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "8iz75j5toc37baiz"
+		}
+	},
+	"block": {
+		"title": "Block",
+		"description": "+0.2 Resistance (4% Damage Reduction)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "shield"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "sklewrbkt57fgeh9"
+		}
+	},
+	"critical_strike_plus_5": {
+		"title": "Critical Strike +5",
+		"description": "+2.5 Resistance Shred",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance_shred",
+					"value": 2.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "h4iuxz37wg5x40a0"
+		}
+	},
+	"haste_plus_5": {
+		"title": "Haste +5",
+		"description": "+5% Breaking Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "sugar"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:breaking_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "hjut121dn0z2js5y"
+		}
+	},
+	"mastery_plus_5": {
+		"title": "Mastery +5",
+		"description": "+0.5 Damage Reflection",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "enchanted_book"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:damage_reflection",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "8s9nhakyllir29ul"
+		}
+	},
+	"versatility_plus_5": {
+		"title": "Versatility +5",
+		"description": "+0.5 Melee Damage, +0.5 Ranged Damage, +0.5 Magic Damage, +0.5 Resistance (10% Damage Reduction)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "shield"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:melee_damage",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:ranged_damage",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:magic_damage",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3nt4stbiv46wuy7y"
+		}
+	},
+	"leech_plus_5": {
+		"title": "Leech +5",
+		"description": "+0.25 Life Steal",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ghast_tear"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:life_steal",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xyvbl5i9upaqiis2"
+		}
+	},
+	"avoidance_plus_5": {
+		"title": "Avoidance +5",
+		"description": "+0.25 Stealth",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "phantom_membrane"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:stealth",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "l9swwsudwuu8gyqj"
+		}
+	},
+	"speed_plus_5": {
+		"title": "Speed +5",
+		"description": "+5% Sprinting Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "sugar"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:sprinting_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "t7i5qb9owzqzrvga"
+		}
+	},
+	"dodge_plus_5": {
+		"title": "Dodge +5",
+		"description": "+0.25 Fall Reduction",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "feather"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:fall_reduction",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ppu7i7he1vex45gz"
+		}
+	},
+	"block_plus_5": {
+		"title": "Block +5",
+		"description": "+1 Resistance (20% Damage Reduction)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "shield"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_attributes:resistance",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "nda4mreudqrrlhyn"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Secondary Stats",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "gold_ingot"
+		}
+	},
+	"background": "textures/block/smooth_stone.png"
+}

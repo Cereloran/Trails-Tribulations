@@ -1,0 +1,698 @@
+{
+	"kxflycr1umebr2oi": {
+		"definition": "strength",
+		"x": 0,
+		"y": -87.75724091682311,
+		"root": true
+	},
+	"m6alxawchbsybo2h": {
+		"definition": "stamina_plus_5",
+		"x": 0,
+		"y": 131.63586137523467,
+		"root": false
+	},
+	"424avncsarov8qzq": {
+		"definition": "stamina",
+		"x": 0,
+		"y": 175.51448183364622,
+		"root": false
+	},
+	"zy4brvmwuzw1352l": {
+		"definition": "stamina",
+		"x": 0,
+		"y": 219.39310229205776,
+		"root": false
+	},
+	"f1r8m59pud94ykc4": {
+		"definition": "stamina",
+		"x": 0,
+		"y": 263.27172275046934,
+		"root": false
+	},
+	"bpb21fmxotf4p3ne": {
+		"definition": "stamina",
+		"x": -38,
+		"y": 109.6965511460289,
+		"root": false
+	},
+	"5z9h902hnklkzjh2": {
+		"definition": "stamina",
+		"x": -76,
+		"y": 131.63586137523467,
+		"root": false
+	},
+	"kopb2x1m82yr1ifz": {
+		"definition": "stamina",
+		"x": -152,
+		"y": 219.3931022920578,
+		"root": false
+	},
+	"bjz9wlz6z7xkt6te": {
+		"definition": "stamina",
+		"x": 38,
+		"y": 109.69655114602888,
+		"root": false
+	},
+	"1mb9f77zqq1savt9": {
+		"definition": "stamina",
+		"x": 76,
+		"y": 131.63586137523467,
+		"root": false
+	},
+	"timm58r5hzdd6pd2": {
+		"definition": "stamina",
+		"x": 152,
+		"y": 219.3931022920578,
+		"root": false
+	},
+	"ydhnkvx5p76dksol": {
+		"definition": "stamina",
+		"x": 152,
+		"y": 263.27172275046934,
+		"root": false
+	},
+	"2anf7j9d8rs1taj4": {
+		"definition": "stamina",
+		"x": -76,
+		"y": 219.3931022920578,
+		"root": false
+	},
+	"wbffypuo3fpzlhyc": {
+		"definition": "stamina",
+		"x": -114,
+		"y": 197.45379206285202,
+		"root": false
+	},
+	"puodx7fnsx2ujn6o": {
+		"definition": "stamina",
+		"x": 114,
+		"y": 197.45379206285202,
+		"root": false
+	},
+	"672byi5c3nnzfg7l": {
+		"definition": "stamina",
+		"x": 76,
+		"y": 219.39310229205776,
+		"root": false
+	},
+	"1el9ajee1wxwioy7": {
+		"definition": "stamina",
+		"x": 76,
+		"y": 307.1503432088809,
+		"root": false
+	},
+	"h5ivbtr04znj17aa": {
+		"definition": "agility",
+		"x": 76,
+		"y": 43.878620458411554,
+		"root": false
+	},
+	"z5qfxa1y0yj8pft7": {
+		"definition": "agility",
+		"x": 114,
+		"y": 65.81793068761733,
+		"root": false
+	},
+	"yjju91ze7mdsjbtu": {
+		"definition": "agility",
+		"x": 152,
+		"y": 87.75724091682311,
+		"root": false
+	},
+	"hiro22isdd0cya3k": {
+		"definition": "agility",
+		"x": 190,
+		"y": 109.69655114602888,
+		"root": false
+	},
+	"3hvldhpe4lgsiby2": {
+		"definition": "agility",
+		"x": 228,
+		"y": 131.63586137523467,
+		"root": false
+	},
+	"74u47yhaz2s5sizm": {
+		"definition": "agility",
+		"x": 266,
+		"y": 153.57517160444044,
+		"root": false
+	},
+	"qmvmcqm7wxi49imt": {
+		"definition": "agility",
+		"x": 76,
+		"y": 0,
+		"root": false
+	},
+	"h9is0rr8t1j2qvj5": {
+		"definition": "agility",
+		"x": 76,
+		"y": -43.878620458411554,
+		"root": false
+	},
+	"lw4v7p7qfakd5jtm": {
+		"definition": "agility",
+		"x": 32,
+		"y": 0,
+		"root": true
+	},
+	"dsqc64wj0h6gcr93": {
+		"definition": "agility",
+		"x": 114,
+		"y": -65.81793068761733,
+		"root": false
+	},
+	"qtxoozmkm6jmpq27": {
+		"definition": "agility",
+		"x": 152,
+		"y": -87.75724091682311,
+		"root": false
+	},
+	"5zw0fbm6g293tvz3": {
+		"definition": "agility",
+		"x": 190,
+		"y": -109.69655114602888,
+		"root": false
+	},
+	"p97qwk63fzrja6s8": {
+		"definition": "agility",
+		"x": 228,
+		"y": -131.63586137523467,
+		"root": false
+	},
+	"dfv3lutvsrmji6bf": {
+		"definition": "agility",
+		"x": 266,
+		"y": -153.57517160444044,
+		"root": false
+	},
+	"mbqx0reqgmkhryfy": {
+		"definition": "agility_plus_5",
+		"x": 304,
+		"y": -175.51448183364622,
+		"root": false
+	},
+	"37eox91m0moha227": {
+		"definition": "agility",
+		"x": 190,
+		"y": -65.81793068761733,
+		"root": false
+	},
+	"meawlm09g3rclfbh": {
+		"definition": "agility",
+		"x": 228,
+		"y": -87.7572409168231,
+		"root": false
+	},
+	"x732go1zqzan4msh": {
+		"definition": "agility",
+		"x": 266,
+		"y": -65.81793068761732,
+		"root": false
+	},
+	"ovfzhkz3rp4lyqh0": {
+		"definition": "agility",
+		"x": 304,
+		"y": -87.75724091682312,
+		"root": false
+	},
+	"lkcavhccvhyrvzfl": {
+		"definition": "agility",
+		"x": 190,
+		"y": 65.81793068761732,
+		"root": false
+	},
+	"62as8ka032lzr5d2": {
+		"definition": "agility",
+		"x": 228,
+		"y": 87.75724091682312,
+		"root": false
+	},
+	"tgpsv8cybe4xnw05": {
+		"definition": "agility",
+		"x": 266,
+		"y": 65.81793068761733,
+		"root": false
+	},
+	"092qo4djtn8f3dns": {
+		"definition": "agility",
+		"x": 304,
+		"y": 87.75724091682311,
+		"root": false
+	},
+	"3abs57wfhyvc9uwg": {
+		"definition": "agility_plus_5",
+		"x": 304,
+		"y": 175.51448183364622,
+		"root": false
+	},
+	"5km9ws2b3zht9wy4": {
+		"definition": "intellect",
+		"x": -32,
+		"y": 0,
+		"root": true
+	},
+	"hl95bzsf8gg2ebob": {
+		"definition": "intellect",
+		"x": -76,
+		"y": -43.878620458411554,
+		"root": false
+	},
+	"8te0ctjq5i2h98bn": {
+		"definition": "intellect",
+		"x": -114,
+		"y": -65.81793068761733,
+		"root": false
+	},
+	"dpadip1ve2hg8nrw": {
+		"definition": "intellect",
+		"x": -152,
+		"y": -87.75724091682311,
+		"root": false
+	},
+	"2i0bncomvunuw0z6": {
+		"definition": "intellect",
+		"x": -190,
+		"y": -109.69655114602888,
+		"root": false
+	},
+	"k1sxqe6ewwoyqfqy": {
+		"definition": "intellect",
+		"x": -228,
+		"y": -131.63586137523467,
+		"root": false
+	},
+	"aezs7kzr1ng24xm5": {
+		"definition": "intellect",
+		"x": -266,
+		"y": -153.57517160444044,
+		"root": false
+	},
+	"6esfop77qv1yq0t8": {
+		"definition": "intellect",
+		"x": -76,
+		"y": 43.878620458411554,
+		"root": false
+	},
+	"bfhegl3xtv230ag5": {
+		"definition": "intellect",
+		"x": -114,
+		"y": 65.81793068761733,
+		"root": false
+	},
+	"xl3etq87h9x88uts": {
+		"definition": "intellect",
+		"x": -152,
+		"y": 87.75724091682311,
+		"root": false
+	},
+	"um0qvgxppksbfyzl": {
+		"definition": "intellect",
+		"x": -190,
+		"y": 109.69655114602888,
+		"root": false
+	},
+	"4m6jchbd27ei1977": {
+		"definition": "intellect",
+		"x": -228,
+		"y": 131.63586137523467,
+		"root": false
+	},
+	"9bakyyr05olumdrd": {
+		"definition": "intellect_plus_5",
+		"x": -304,
+		"y": 175.51448183364622,
+		"root": false
+	},
+	"ttqtzix12w696drh": {
+		"definition": "intellect",
+		"x": -266,
+		"y": 153.57517160444044,
+		"root": false
+	},
+	"461oajbw2bw9wqtj": {
+		"definition": "intellect_plus_10",
+		"x": -152,
+		"y": 0,
+		"root": false
+	},
+	"spb2q392582znnvz": {
+		"definition": "intellect",
+		"x": -76,
+		"y": 0,
+		"root": false
+	},
+	"kinv3vusntx4vp5f": {
+		"definition": "intellect_plus_5",
+		"x": -304,
+		"y": 0,
+		"root": false
+	},
+	"hlcd80zcaqvfkjjz": {
+		"definition": "intellect",
+		"x": -304,
+		"y": 87.75724091682312,
+		"root": false
+	},
+	"5tzsxddm0jwuqpke": {
+		"definition": "intellect",
+		"x": -266,
+		"y": 65.81793068761732,
+		"root": false
+	},
+	"xlis8l24o1ssuoq6": {
+		"definition": "intellect",
+		"x": -228,
+		"y": 87.7572409168231,
+		"root": false
+	},
+	"dwhebae1xbiy2pr8": {
+		"definition": "intellect",
+		"x": -228,
+		"y": -87.75724091682312,
+		"root": false
+	},
+	"bqj5ol6xlfanl9q1": {
+		"definition": "intellect",
+		"x": -266,
+		"y": -65.81793068761733,
+		"root": false
+	},
+	"2t0t2du3e2tiao7d": {
+		"definition": "intellect",
+		"x": -304,
+		"y": -87.75724091682311,
+		"root": false
+	},
+	"v7pxgqyi1yxgws1w": {
+		"definition": "intellect",
+		"x": -190,
+		"y": -65.81793068761732,
+		"root": false
+	},
+	"hl4zmxlykyvvpsnk": {
+		"definition": "intellect",
+		"x": -190,
+		"y": 65.81793068761733,
+		"root": false
+	},
+	"78yl5s2qrvm0ynxk": {
+		"definition": "intellect",
+		"x": -228,
+		"y": 0,
+		"root": false
+	},
+	"v3ji06ba6226m8er": {
+		"definition": "agility",
+		"x": 228,
+		"y": 0,
+		"root": false
+	},
+	"wvwlgwzphaj2il2t": {
+		"definition": "agility_plus_5",
+		"x": 304,
+		"y": 0,
+		"root": false
+	},
+	"a359cugfer7tlpc3": {
+		"definition": "strength_plus_5",
+		"x": 0,
+		"y": -131.63586137523467,
+		"root": false
+	},
+	"qs86e8jy21duxvur": {
+		"definition": "strength",
+		"x": 0,
+		"y": -175.51448183364622,
+		"root": false
+	},
+	"n85fshqehqzue9pp": {
+		"definition": "strength",
+		"x": 0,
+		"y": -219.39310229205776,
+		"root": false
+	},
+	"9apky7ps4znxd015": {
+		"definition": "strength",
+		"x": 0,
+		"y": -263.27172275046934,
+		"root": false
+	},
+	"iqsiznkltxuoj814": {
+		"definition": "strength",
+		"x": 76,
+		"y": -131.63586137523467,
+		"root": false
+	},
+	"qjfn1qeu7178lugv": {
+		"definition": "strength",
+		"x": 114,
+		"y": -153.5751716044404,
+		"root": false
+	},
+	"n2jwgc32gwwanar6": {
+		"definition": "strength",
+		"x": 190,
+		"y": -197.45379206285202,
+		"root": false
+	},
+	"hphef4tpo0xnuxh1": {
+		"definition": "strength_plus_5",
+		"x": 190,
+		"y": -241.33241252126356,
+		"root": false
+	},
+	"33oizjfre5y6ouwz": {
+		"definition": "strength",
+		"x": -76,
+		"y": -131.63586137523467,
+		"root": false
+	},
+	"sy729jmf75paybsc": {
+		"definition": "strength",
+		"x": -114,
+		"y": -153.57517160444044,
+		"root": false
+	},
+	"m0fzlzxa6wuqgfl4": {
+		"definition": "strength",
+		"x": -190,
+		"y": -197.453792062852,
+		"root": false
+	},
+	"7a4blv8o477jobpj": {
+		"definition": "strength_plus_5",
+		"x": -190,
+		"y": -241.33241252126356,
+		"root": false
+	},
+	"l2dr8g4pwvwfyxdj": {
+		"definition": "strength",
+		"x": -114,
+		"y": -285.2110329796751,
+		"root": false
+	},
+	"7t8pnmsq4mayl1ot": {
+		"definition": "strength",
+		"x": -76,
+		"y": -175.51448183364622,
+		"root": false
+	},
+	"bk6wg4z3xqzcvtx9": {
+		"definition": "strength",
+		"x": -114,
+		"y": -197.45379206285202,
+		"root": false
+	},
+	"mmewmpnld87u4001": {
+		"definition": "strength",
+		"x": -76,
+		"y": -219.39310229205776,
+		"root": false
+	},
+	"3bxd4fpsabi9l7dx": {
+		"definition": "strength",
+		"x": 76,
+		"y": -263.27172275046934,
+		"root": false
+	},
+	"hmtuj4mow27vbh16": {
+		"definition": "strength",
+		"x": 114,
+		"y": -241.33241252126356,
+		"root": false
+	},
+	"iat4il2ti7ny7blv": {
+		"definition": "strength",
+		"x": 152,
+		"y": -219.3931022920578,
+		"root": false
+	},
+	"mgt4wonhbw8tnxil": {
+		"definition": "strength",
+		"x": 76,
+		"y": -175.51448183364622,
+		"root": false
+	},
+	"78a4zuarr8hx8qco": {
+		"definition": "strength",
+		"x": 114,
+		"y": -285.2110329796751,
+		"root": false
+	},
+	"2y5kdeyh4krnghtj": {
+		"definition": "strength",
+		"x": 0,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"1ipyai2i847vadtz": {
+		"definition": "stamina",
+		"x": 0,
+		"y": 351.02896366729243,
+		"root": false
+	},
+	"1nd7ocmt8b35qjkw": {
+		"definition": "stamina_plus_5",
+		"x": 228,
+		"y": 219.3931022920578,
+		"root": false
+	},
+	"68emzkp8tmnyn57m": {
+		"definition": "stamina_plus_5",
+		"x": -228,
+		"y": 219.39310229205776,
+		"root": false
+	},
+	"mhcrk2be9x8z458z": {
+		"definition": "agility_plus_10",
+		"x": 152,
+		"y": 0,
+		"root": false
+	},
+	"2tdy1gk9ghatfm8l": {
+		"definition": "stamina",
+		"x": -38,
+		"y": 329.08965343808666,
+		"root": false
+	},
+	"tcrkk44s54codwaq": {
+		"definition": "stamina",
+		"x": 38,
+		"y": 285.2110329796751,
+		"root": false
+	},
+	"snmfejblzahkvmoq": {
+		"definition": "stamina",
+		"x": 38,
+		"y": 329.08965343808666,
+		"root": false
+	},
+	"enwwtd9zdcv94frd": {
+		"definition": "stamina",
+		"x": -38,
+		"y": 285.2110329796751,
+		"root": false
+	},
+	"l2qqm1luz3bzpkig": {
+		"definition": "strength",
+		"x": -38,
+		"y": -285.2110329796751,
+		"root": false
+	},
+	"xwk8cwj9s57gdhvn": {
+		"definition": "strength",
+		"x": -38,
+		"y": -329.08965343808666,
+		"root": false
+	},
+	"nvpg70zvgsxr06r2": {
+		"definition": "strength",
+		"x": 38,
+		"y": -329.08965343808666,
+		"root": false
+	},
+	"7buhicmbi11o5sgq": {
+		"definition": "strength",
+		"x": 38,
+		"y": -285.2110329796751,
+		"root": false
+	},
+	"aa1ybf7ub47gxvsm": {
+		"definition": "strength_plus_10",
+		"x": 0,
+		"y": -307.1503432088809,
+		"root": false
+	},
+	"bgs7u3qbqtml6xrw": {
+		"definition": "stamina_plus_10",
+		"x": 0,
+		"y": 307.1503432088809,
+		"root": false
+	},
+	"k77naivax6brcbm4": {
+		"definition": "stamina",
+		"x": 0,
+		"y": 87.75724091682311,
+		"root": true
+	},
+	"sxlw3ywmrmx2yw8e": {
+		"definition": "stamina",
+		"x": -76,
+		"y": 307.1503432088809,
+		"root": false
+	},
+	"35p10p58ficut8s7": {
+		"definition": "stamina",
+		"x": -152,
+		"y": 263.27172275046934,
+		"root": false
+	},
+	"7jsx3hf3eee4mxcs": {
+		"definition": "intellect_plus_5",
+		"x": -304,
+		"y": -175.51448183364622,
+		"root": false
+	},
+	"7laajr7zms4c0poe": {
+		"definition": "strength",
+		"x": -76,
+		"y": -263.27172275046934,
+		"root": false
+	},
+	"lfm4vahgh8i3vqcz": {
+		"definition": "intellect",
+		"x": -190,
+		"y": -21.939310229205773,
+		"root": false
+	},
+	"vw02tevh70ic5nnt": {
+		"definition": "intellect",
+		"x": -190,
+		"y": 21.939310229205788,
+		"root": false
+	},
+	"0ph45h9vvfrz5fcn": {
+		"definition": "agility",
+		"x": 190,
+		"y": -21.939310229205788,
+		"root": false
+	},
+	"gsimy4day04vc92a": {
+		"definition": "agility",
+		"x": 190,
+		"y": 21.939310229205773,
+		"root": false
+	},
+	"og7g07ib76usmjbl": {
+		"definition": "stamina",
+		"x": 152,
+		"y": 175.51448183364622,
+		"root": false
+	},
+	"1fmp50dk71pznu5r": {
+		"definition": "stamina",
+		"x": -152,
+		"y": 175.51448183364624,
+		"root": false
+	}
+}

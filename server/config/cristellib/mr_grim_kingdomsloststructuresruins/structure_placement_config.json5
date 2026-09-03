@@ -1,0 +1,27 @@
+{
+	"forest": {
+		"salt": 88,
+		"separation": 30,
+		"spacing": 50
+	},
+	"plains": {
+		"salt": 88,
+		"separation": 30,
+		"spacing": 50
+	},
+	"snowy": {
+		"salt": 88,
+		"separation": 30,
+		"spacing": 50
+	},
+	"taiga": {
+		"salt": 88,
+		"separation": 30,
+		"spacing": 50
+	},
+	"water": {
+		"salt": 99,
+		"separation": 45,
+		"spacing": 70
+	}
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783312642614,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QiF6Bnioe4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783311650304,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/j14kqrPKab"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1783305427364,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TZgj71DWki"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1783245816640,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KZ2ta5YLNO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "pixelpenguin2012",
+      "uniqueId": "038d8b8f-99fc-46dd-8eab-d3bbe38546c9"
+    },
+    "time": 1783173541626,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gHCgiGI42K"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "pixelpenguin2012",
+      "uniqueId": "038d8b8f-99fc-46dd-8eab-d3bbe38546c9"
+    },
+    "time": 1783173258790,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/63OVSuVhlz"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "pixelpenguin2012",
+      "uniqueId": "038d8b8f-99fc-46dd-8eab-d3bbe38546c9"
+    },
+    "time": 1783173222102,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wqMGAn21pa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "pixelpenguin2012",
+      "uniqueId": "038d8b8f-99fc-46dd-8eab-d3bbe38546c9"
+    },
+    "time": 1783171922034,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9fvrEG0eS6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783171794797,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/7JmKQKRwKa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783171684433,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Dxn2IYmNQI"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783171045582,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uCZBsC7c9g"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1783169547137,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UO0UfXUGPG"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783157287932,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YTapSjQY90"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1783154633633,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uCfetHvVwY"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1783152538698,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cyCBcNfqgL"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1783148580441,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CMX6ZShVu3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783140317274,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PeUaHcVxs4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783137826612,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2VtJQCHnVa"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783137813263,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/OwKPCx6k2l"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783131752451,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "file",
+      "value": "C:\\Labyrinthos SMP 06.2026\\config\\spark\\heapsummary-2026-07-04_12.22.32.sparkheap"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1783130791138,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/z8NcQyipyD"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1782788253795,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MJwqYLsdID"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Cereloran",
+      "uniqueId": "f0fe898e-7d5c-4977-a344-51639e894846"
+    },
+    "time": 1782784543480,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lRpQdO5Hlc"
+    }
+  }
+]

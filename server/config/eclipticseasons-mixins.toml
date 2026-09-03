@@ -1,0 +1,52 @@
+	[common.biome]
+		MixinBiome = true
+
+	[common.block]
+		MixinBeehiveBlockEntity = true
+		MixinBlockState = true
+		MixinBlockStateBase = true
+		MixinFallingBlock = true
+		MixinLayeredCauldronBlock = true
+
+	[common.chunk]
+		MixinAccessorLevelChunkSection = true
+		MixinChunkAccess = true
+		MixinLevelChunk = true
+		MixinPalettedContainer = true
+		MixinSimpleBitStorage = true
+		MixinZeroBitStorage = true
+
+	[common.command]
+		MixinWeatherCommand = true
+
+	[common.entity]
+		MixinEntity = true
+		MixinLivingEntity = true
+		MixinWanderingTrader = true
+
+	[common.item]
+		MixinMapItem = true
+
+	[common.level]
+		MixinAttributeTrackSampler = true
+		MixinLevel = true
+		MixinMinecraftServer = true
+		MixinServerLevel = true
+
+	[common.worldgen]
+		MixinSurfaceSystem = true
+
+	[compat.neoforge]
+		BlockStateModelHooksAccessor = true
+		MixinIBlockExtension = true
+
+[data]
+	MixinsRegistriesDatapackGenerator = true
+	RegistrySetBuilderMixin = true
+
+[game]
+	MixinBee_BeePollinateGoal = true
+	MixinBeehiveBlockEntity = true
+	MixinBreedGoal = true
+	MixinCow = true
+	MixinFishingHook = true
