@@ -1,0 +1,29 @@
+{
+  "keepSearch": {
+    "keepSearch": true
+  },
+  "autoFocus": {
+    "autoFocus": false
+  },
+  "detachSearchBar": {
+    "detachSearchBar": false
+  },
+  "searchInTooltips": {
+    "searchInTooltips": true
+  },
+  "searchBarDefaultState": {
+    "description": "0 = Keep last state, 1 = Always enabled, 2 = Always disabled",
+    "searchBarDefaultState": 0
+  },
+  "vanillaContainerMode": {
+    "description": "Mode for minecraft containers. 0 = Disabled.",
+    "vanillaContainerMode": 1
+  },
+  "modePerScreen": {
+    "description": "Mode for each screen. 0 = Disabled.",
+    "modePerScreen": {
+      "com.progwml6.ironchest.client.screen.IronChestScreen": 1,
+      "fuzs.netherchested.client.gui.screens.inventory.NetherChestScreen": 2
+    }
+  }
+}

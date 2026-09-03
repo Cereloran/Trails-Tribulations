@@ -1,0 +1,13 @@
+[reroll]
+	#Enable the reroll button in Apothic's enchanting table GUI.
+	enableReroll = true
+	#Lapis lazuli consumed per reroll. 0 = free.
+	# Default: 1
+	# Range: 0 ~ 64
+	lapisCost = 1
+	#Experience consumed per reroll (points, or levels if takesEnchantmentLevels is true). 0 = free.
+	# Default: 5
+	# Range: 0 ~ 10000
+	experienceCost = 5
+	#If true, the experience cost is paid in enchantment levels instead of experience points.
+	takesEnchantmentLevels = false

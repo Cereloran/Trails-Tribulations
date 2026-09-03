@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "data": {
+        "92049467-377b-4d5d-9745-2938e2b509b1": {
+            "volume": 0.25,
+            "quality": "720",
+            "brightness": 1.0,
+            "muted": false,
+            "paused": true,
+            "savedTimeNanos": 15500662300,
+            "renderDistance": 96,
+            "pipOpen": false,
+            "acousticsEnabled": true
+        }
+    }
+}

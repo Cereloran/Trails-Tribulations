@@ -1,0 +1,38 @@
+#If true, a zombified player will spawn after the player gets killed by an Undead | default: true
+spawnZombifiedPlayerAfterDeath = true
+#If true, the Main and the OffHand of the dead player will be transferred to the zombified player | default: true
+transferMainAndOffHandToZombifiedPlayer = true
+#If true, the armor of the dead player will be transferred to the zombified player | default: true
+transferArmorToZombifiedPlayer = true
+#If true, the inventory of the dead player will be transferred to the zombified player | default: true
+transferInventoryToZombifiedPlayer = true
+#If true, all equipped curios/trinket items of the dead player will be transferred to the zombified player | default: true
+transferCuriosOrTrinketItemsToZombifiedPlayer = true
+#If true, a zombified player will spawn no matter how the player died | default: false
+spawnOnAnyDeath = false
+#If true, the name tag will be displayed above the Zombified Player | default: true
+displayNameTagForZombifiedPlayer = true
+#If true, a message will be printed out in chat that a zombified player has spawned | default: true
+printSpawnMessageInChat = true
+#If true, the spawn location of the zombified player will be printed out in chat | default: false
+printSpawnLocationInChat = false
+#If true, zombified players can break through doors | default: true
+zombifiedPlayersCanBreakDoors = true
+#If true, zombified players are stronger, faster and have more health | default: false
+makeTheZombifiedPlayersStronger = false
+#If true, zombified players are immune to fire and lava | default: false
+makeTheZombifiedPlayersImmuneToFire = false
+#If true, the mod will stop trying to fetch the player skin after several unsuccessful tries | default: true
+limitSkinFetchTries = true
+#If true, spawn zombified player after death by infection (Contagion mod needed!) | default: true
+spawnWhenKilledByInfection = true
+#If true, no corpse (Corpse mod) will spawn when a Zombified Player is created | default: false
+corpseCompatibility = false
+#If true, no gravestone (Gravestone mod) will spawn when a Zombified Player is created | default: false
+gravestoneCompatibility = false
+#If true, the custom eye height defined by customEyeHeight will be used for the Zombified Player | default: false
+useCustomEyeHeight = false
+#The custom eye height of the Zombified Player (only used if useCustomEyeHeight is true) | default: 1.74
+# Default: 1.74
+# Range: 0.0 ~ 10.0
+customEyeHeight = 1.74
